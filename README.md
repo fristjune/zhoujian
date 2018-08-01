@@ -20,4 +20,4 @@ ShadowDrawable.setShadowDrawable(textView1, Color.parseColor("#3D5AFE"), dpToPx(
     Color.parseColor("#66000000"), dpToPx(10), 0, 0);
   
   
-Step 4.通过一行代码即可实现阴影效果：[图片]
+Step 4.实现阴影效果如下：
