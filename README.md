@@ -21,5 +21,5 @@ ShadowDrawable.setShadowDrawable(textView1, Color.parseColor("#3D5AFE"), dpToPx(
   
   
 Step 4.实现阴影效果如下：
-![image](https://github.com/fristjune/zhoujian/master/JianDemo/style.pn)
+![image](https://github.com/fristjune/zhoujian/master/JianDemo/style.png)
 
