@@ -15,8 +15,12 @@
         <activity android:name=".MainActivity">
 
         </activity>
-        <activity android:name=".RecyclerActivity"/>
+        <activity android:name=".RecyclerActivity" />
         <activity android:name=".databinding.DataBindingActivity">
+
+
+        </activity>
+        <activity android:name=".department.DepartmentChoiceActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
